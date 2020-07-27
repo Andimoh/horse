@@ -1,0 +1,8 @@
+{
+    "java.dependency.syncWithFolderExplorer": true,
+    "files.associations": {
+        "": ""
+    },
+    "java.codeGeneration.generateComments": true,
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
